@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Agus Pranyoto
 
-<!--
-**aguspranyoto/aguspranyoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aguspranyoto/)
 
-Here are some ideas to get you started:
+**Frontend Developer** passionate about building scaleable and performant web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🔭 I’m currently working on advanced web applications using modern JavaScript/TypeScript ecosystems.
+- 🌱 I’m currently focusing on React, Next.js, and related modern web technologies.
+- 💬 Ask me about Frontend architecture, UI/UX implementation, and state management.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aguspranyoto/)
+- ⚡ Fun fact: Always excited to learn new tools to improve developer experience and web performance.
+
+### 💻 Technologies & Tools
+- **Languages:** JavaScript (ES6+), TypeScript, Dart, HTML5, CSS3/Sass
+- **Frameworks/Libraries:** React.js, Vue.js, Flutter, Next.js, Nuxt.js, Tailwind CSS, Shadcn-UI Material-UI
+- **State/Data:** Redux, Pinia, Zustand, React Query, Prisma
+- **Tools:** Git, Docker
+
+---
+*Feel free to explore my repositories. I'm always open to interesting conversations and collaborations!*
