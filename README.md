@@ -1,21 +1,29 @@
-# 👋 Hi, I'm Agus Pranyoto
+Agus Pranyoto
 
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aguspranyoto/)
+Frontend Developer
 
-**Frontend Developer** passionate about building scaleable and performant web applications.
+Summary
+-------
+I design and implement maintainable, high-performance frontend applications. I focus on React and Next.js with TypeScript, component-driven development, and pragmatic engineering practices that support modular teams and scalable products.
 
-### 🚀 About Me
-- 🔭 I’m currently working on advanced web applications using modern JavaScript/TypeScript ecosystems.
-- 🌱 I’m currently focusing on React, Next.js, and related modern web technologies.
-- 💬 Ask me about Frontend architecture, UI/UX implementation, and state management.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aguspranyoto/)
-- ⚡ Fun fact: Always excited to learn new tools to improve developer experience and web performance.
+Core Skills
+-----------
+- React, Next.js, TypeScript
+- UI libraries: Material-UI, Tailwind CSS, Shadcn-UI
+- State management: Redux, Zustand, React Query
+- Data & backend: Prisma, REST, GraphQL
+- Tooling: Git, Docker, ESLint, Turbopack
 
-### 💻 Technologies & Tools
-- **Languages:** JavaScript (ES6+), TypeScript, Dart, HTML5, CSS3/Sass
-- **Frameworks/Libraries:** React.js, Vue.js, Flutter, Next.js, Nuxt.js, Tailwind CSS, Shadcn-UI Material-UI
-- **State/Data:** Redux, Pinia, Zustand, React Query, Prisma
-- **Tools:** Git, Docker
+Experience (selected)
+---------------------
+- Frontend Developer — PT Indocyber Global Teknologi (Contract, Sept 2025 – Present): Worked on the Satu Wings internal project using Next.js, Material-UI, Zustand, React Query, React Hook Form, Zod, and TypeScript; contributed to a modular multi-zone frontend architecture and implemented reusable UI components aligned with design systems; added Dart/Flutter expertise for cross-platform UI prototypes and mobile feature proofs-of-concept.
+- Frontend Developer — PT Global Indonesia Asia Sejahtera (Jun 2024 – Sept 2025): Built documentation and company websites using Next.js, React, TanStack Query, Prisma, and Tailwind CSS; implemented role-based access and responsive layouts converted from Figma designs.
+- Junior & Intern Roles: Various frontend roles involving Vue.js, Nuxt.js, Laravel integrations, and frontend performance improvements.
 
----
-*Feel free to explore my repositories. I'm always open to interesting conversations and collaborations!*
+Contact
+-------
+LinkedIn: https://www.linkedin.com/in/aguspranyoto/
+
+Notes
+-----
+This concise professional summary is suitable for a GitHub profile README. To publish it on your GitHub profile, rename this file to `README.md` and place it in a repository named `aguspranyoto`.
