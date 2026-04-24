@@ -6,10 +6,10 @@ I design and implement maintainable, high-performance frontend applications. I f
 
 Core Skills
 -----------
-- React, Next.js, Vue, Nuxt.js, Flutter, Laravel, Statamic CMS
+- Frontend: React, Next.js, Vue.js, Nuxt.js, React Native
+- Backend: Go, Laravel, Statamic CMS, Payload CMS
 - UI libraries: Tailwind CSS, Material-UI, Shadcn-UI, PrimeVue
 - State management: Pinia, Zustand, React Query
-- Data & backend: Prisma, REST API
 - Tooling: Git, Docker
 
 Contact
