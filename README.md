@@ -20,8 +20,9 @@ A SaaS application that converts HTML components into fully editable Figma layer
 ## Tech Stack
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React.js, Next.js, Vue.js, Nuxt.js, React Native |
+| **Frontend** | React.js, Next.js, Vue.js, Nuxt.js |
 | **Backend** | Go (Fiber), Laravel (Filament), WebSockets, Statamic CMS |
+| **Mobile** | React Native |
 | **UI Libraries** | Tailwind CSS, Shadcn-UI, Material-UI, PrimeVue |
 | **State** | Zustand, Pinia, React Query |
 | **DevOps / Tooling** | Docker, PM2, GitHub Actions (Self-hosted), Cloudflare (R2/Tunnels), Git |
